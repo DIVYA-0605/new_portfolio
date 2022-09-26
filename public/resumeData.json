@@ -1,0 +1,137 @@
+{
+  "main": {
+    "name": "DIVYA VADRANAM",
+    "occupation": "CEO of my future goals",
+    "description": "I'm a Front-end Developer",
+    "image": "profilepic.jpg",
+    "bio": "Hi there! I am Divya. I'm a front-end developer aspiring to become a Full stack developer. I am currently proficient in React.Js and studying node.js too.",
+    "contactmessage": "Get in touch with me!",
+    "email": "vadranamdivya06@gmail.com",
+    "phone": "+91 9063592384",
+    "address": {
+      "street": "Guntur",
+      "city": "Andhra",
+      "state": "India",
+      "zip": "636008"
+    },
+    "website": "https://github.com/DIVYA-0605",
+    "resumedownload": "https://github.com/DIVYA-0605",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/divyavadranam-ab5204217",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "portfolio",
+        "url": "https://www.linkedin.com/in/santdas36",
+        "className": "fa fa-globe"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/DIVYA-0605",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Sri Sunflower Engineering College - AP",
+        "degree": "Bachelor's Degree, Computer Science",
+        "graduated": "Nov 2020",
+        "description": "Graduated in First Class with CGPA: 7.2/10"
+      },
+      {
+        "school": "Narayana Junior College - AP",
+        "degree": " Higher Secondary Certificate, MPC",
+        "graduated": "April 2016",
+        "description": "Secured First Class with CGPA : 9.1/10"
+      },
+      {
+        "school": "Bala Yesu English Medium High School - AP",
+        "degree": " Secondary School Certificate",
+        "graduated": "April 2014",
+        "description": "Secured First Class with CGPA : 8.2/10"
+      }
+    ],
+
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "NextJs",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "85%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "80%"
+      },
+      {
+        "name": "Web Development",
+        "level": "90%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Amazon Redesign",
+        "category": "",
+        "image": "amazon.webp",
+        "url": "https://amazon-ish.vercel.app"
+      },
+
+      {
+        "title": "Google darkmode",
+        "category": "",
+        "image": "google.webp",
+        "url": "https://google-redesign-nm5b-cr6usvkhp-divya-0605.vercel.app"
+      },
+      {
+        "title": "Airbnb Clone (Next JS)",
+        "category": "",
+        "image": "airbnbportfolio.PNG",
+        "url": "https://airbnb-redesign.vercel.app"
+      },
+
+      {
+        "title": "Hulu Clone (Next JS)",
+        "category": "",
+        "image": "huluportfolio.PNG",
+        "url": "https://hulu-app-coral.vercel.app"
+      },
+      {
+        "title": "Likedin Clone (React JS)",
+        "category": "",
+        "image": "linkedinportfolio.PNG",
+        "url": "https://linkedin-clone-29874.web.app"
+      },
+      {
+        "title": "TMDb App",
+        "category": "",
+        "image": "tmdb.webp",
+        "url": "https://google-redesign-nm5b-cr6usvkhp-divya-0605.vercel.app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Divya is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "John Mark"
+      },
+      {
+        "text": "Learning with Divya has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Sue Phil"
+      }
+    ]
+  }
+}
